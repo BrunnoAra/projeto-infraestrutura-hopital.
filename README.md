@@ -13,6 +13,7 @@ Simulação de infraestrutura de TI hospitalar com foco em redes, segurança, se
 ## 🎯 1. Objetivo
 Este projeto simula a infraestrutura de TI de uma UPA (Unidade de Pronto Atendimento), com foco em redes, segurança, servidores e continuidade de serviços críticos, seguindo boas práticas de mercado. O sistema foi projetado para garantir disponibilidade, segurança e integridade das informações, assegurando a continuidade dos serviços essenciais da UPA.
 
+![Visão Geral do Projeto](imagens/visao_geral.png)
 ---
 
 ## 🏢 2. Estrutura Física
